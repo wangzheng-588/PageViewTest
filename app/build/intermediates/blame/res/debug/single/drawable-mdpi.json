@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/wz/MyComputer/e/android源码/小说阅读器源码/PageViewTest/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_search.png",
+        "source": "/home/wz/MyComputer/e/android源码/小说阅读器源码/PageViewTest/app/src/main/res/drawable-mdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/home/wz/MyComputer/e/android源码/小说阅读器源码/PageViewTest/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/home/wz/MyComputer/e/android源码/小说阅读器源码/PageViewTest/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]
